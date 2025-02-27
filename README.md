@@ -46,7 +46,7 @@ Invece di generare il numero random per l'utente, chiedilo con un prompt!
 
 ### Soluzione
 
-##INPUT
+## INPUT
 
 2 numeri random tra 1 e 6 <br>
 Uno per il computer <br>
