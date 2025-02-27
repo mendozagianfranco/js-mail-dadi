@@ -41,3 +41,39 @@ Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
 Bonus
 Invece di generare il numero random per l'utente, chiedilo con un prompt!
+
+---
+
+### Soluzione
+
+##INPUT
+
+2 numeri random tra 1 e 6 <br>
+Uno per il computer <br>
+Uno per User
+
+### ALGORITMO, PROCEDIMENTO
+
+Confrontare i 2 numeri e quello più alto vince
+
+### OUTPUT
+
+Annunciare il vincitore
+
+### Pseudocodice
+
+-   Generare 2 numero tra 1 e 6 e salvarlo in due varibili uno per USER e altro per il COMPUTER
+-   Confrontare i 2 valori
+-   SE numero USER è più alto del numero COMPUTER
+    -   Stampare USER vincitore
+-   SE numero COMPUtER è più alto del numero USER
+    -   Stampare COMPUTER vincitore
+-   ALTRIMENTI
+    -   Stampare PAREGGIO
+
+### BONUS
+
+-   Chiedere al USER un numero compreso tra 1 e 6
+-   Controllo INPUT sia valido
+-   Salvare il numero in una varibiale
+-   Confrontare i 2 valori
